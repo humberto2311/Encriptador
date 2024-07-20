@@ -1,7 +1,18 @@
-# Encriptador
-Este es un laboratorio donde se llevara acabo un encriptado de texto 
-Antes de empezar hice varios codigos referente a este laboratorio cada uno de las ediciones estar e los distintos branch de este repositorio
+<div align="center">
+  <h1 align="center">
+    Encriptador
+    <br />
+    <br />
+    <a href="https://github.com/humberto2311/Encriptador/blob/struture_if/README.md">
+      <img src="img/encriptar_1.jpg" alt="Docusaurus">
+    </a>
+  </h1>
+</div>
 
+# Encriptador
+
+Este es un laboratorio donde se llevara acabo un encriptado de texto
+Antes de empezar hice varios codigos referente a este laboratorio cada uno de las ediciones estar e los distintos branch de este repositorio
 
 Descripción
 Editar
