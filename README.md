@@ -39,3 +39,14 @@ Por fin, en la columna Concluido estarán los elementos ya concluidos.
 El Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.
 
 Buen proyecto!
+
+Abstracción de conceptos
+
+Para hacer el encriptador decidi  tokenizar las palabras ingresadas por el usurio, debido a eso,estuve investigando sobre varios metodos
+
+Split: es un metodo que divide un objeto de tipo String en array de cadema mediante la separacion de cadena  en subcadenas
+
+map: es un metodo que crea un nuevo array con los resultados de la llamada a la función indicada aplicada a cada uno de los elementos
+
+charCodeAt: este metodo NO LO USE pero seria interesante leer mas de el este metodo devuelve un número indicando el valor unicode del carácter en el índice proporcionado.
+
