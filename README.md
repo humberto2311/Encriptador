@@ -1,5 +1,7 @@
 # Encriptador
 Este es un laboratorio donde se llevara acabo un encriptado de texto 
+Antes de empezar hice varios codigos referente a este laboratorio cada uno de las ediciones estar e los distintos branch de este repositorio
+
 
 Descripción
 Editar
