@@ -5,7 +5,7 @@
     <br />
     <a href="https://github.com/humberto2311/Encriptador/blob/struture_if/README.md">
       
-<video  src="img/Green Line Branch Organic Nature Logo.mp4"width="640" height="360" controls>
+<video  src="img/Green Line Branch Organic Nature Logo.mp4" controls>
   <!-- Aquí irán las fuentes de video y el texto alternativo -->
 </video>
       <img src="img/encriptar_1.jpg" alt="Docusaurus">
