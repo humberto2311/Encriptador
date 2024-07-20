@@ -3,13 +3,12 @@
     Encriptador
     <br />
     <br />
-    <video   autoplay>
-   <source src="img/Green Line Branch Organic Nature Logo.mp4" type="video/mp4">
+    video width="320" height="240" controls>
+  <source src="img/Green Line Branch Organic Nature Logo.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
 </video>
-    <a href="https://github.com/humberto2311/Encriptador/blob/struture_if/README.md">
-
-
-      <img src="img/encriptar_1.jpg" alt="Docusaurus">
+ <a href="https://github.com/humberto2311/Encriptador/blob/struture_if/README.md">
+<img src="img/encriptar_1.jpg" alt="Docusaurus">
 
 </a>
   </h1>
